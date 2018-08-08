@@ -1,2 +1,15 @@
-node_modules/
+public/bundle.js
 dist/
+node_modules/
+.eslintcache
+coverage/
+.nyc_output
+.DS_Store
+public/*bundle*
+*.map
+*.bundle.js
+_site/
+.sass-cache/
+*.iml
+.idea/
+notes
